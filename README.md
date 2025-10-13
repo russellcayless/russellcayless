@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/russellcayless/vulnerability-management-program/blob/39d61183e0d2e8aec1610411faa043d9880adae6/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations -CVE-2013-3900 (PowerShell)](https://github.com/russellcayless/vulnerability-management/blob/8bcf38d7af63ef93a728e3e70916cac8bf327fd2/CVE-2013-3900.ps1)**
 
 ## 🚨 Threat Hunting and Security Operations
 

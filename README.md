@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-##  Azure Sentinel Workbook Visualizations
+## 📖 Azure Sentinel Workbook Visualizations
 
 - **[Top_Destination_IPs-Geo_Map](https://github.com/russellcayless/sentinel_workbooks/blob/46464d34e53d5b560550119c73669a67a6c8c6f7/Top_Destination_IPs-Geo_Map.md)**
 

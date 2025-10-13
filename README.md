@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ##  Azure Sentinel Workbook Visualizations
 
-- **([Top_Destination_IPs-Geo_Map.md](https://github.com/russellcayless/sentinel_workbooks/blob/46464d34e53d5b560550119c73669a67a6c8c6f7/Top_Destination_IPs-Geo_Map.md))**
+- **[Top_Destination_IPs-Geo_Map](https://github.com/russellcayless/sentinel_workbooks/blob/46464d34e53d5b560550119c73669a67a6c8c6f7/Top_Destination_IPs-Geo_Map.md)**
 
 <hr/>
 

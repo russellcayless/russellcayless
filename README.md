@@ -16,6 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Top Destination IPs-Geo Map](https://github.com/russellcayless/sentinel_workbooks/blob/46464d34e53d5b560550119c73669a67a6c8c6f7/Top_Destination_IPs-Geo_Map.md)**
 - **[Top 10 Devices-PowerShell & Macro Malware Activity](https://github.com/russellcayless/sentinel_workbooks/blob/46464d34e53d5b560550119c73669a67a6c8c6f7/Top_10_Devices-PowerShell_%26_Macro_Malware_Activity.md)**
+- **[Brute Force Attacks](https://github.com/russellcayless/sentinel_workbooks/blob/46464d34e53d5b560550119c73669a67a6c8c6f7/Brute_Force_Attacks.md)**
 
 <hr/>
 

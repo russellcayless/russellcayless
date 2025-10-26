@@ -5,6 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🛡️ Entra Projects
 
 - **[Branding Microsoft 365 sign-in experience](https://github.com/russellcayless/Entra/blob/4111ae254ee0df70c8d1d885182e5e328b8a1b46/branding_m365_login.md)**
+- **[Conditional Access: Block all countries except UK](https://github.com/russellcayless/Entra/blob/4111ae254ee0df70c8d1d885182e5e328b8a1b46/branding_m365_login.md)**
 
 ## ⚠️ Vulnerability Management Projects
 

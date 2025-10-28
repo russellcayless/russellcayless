@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/russellcayless/vulnerability-management-program/blob/39d61183e0d2e8aec1610411faa043d9880adae6/README.md)**
 - **[Programmatic Vulnerability Remediations - CVE-2013-3900 (PowerShell)](https://github.com/russellcayless/vulnerability-management/blob/8bcf38d7af63ef93a728e3e70916cac8bf327fd2/CVE-2013-3900.ps1)**
-- **[Qualys Agent Setup and Patch Remediation](https://github.com/russellcayless/vulnerability-management/blob/8bcf38d7af63ef93a728e3e70916cac8bf327fd2/CVE-2013-3900.ps1)**
+- **[Qualys Agent Setup and Patch Remediation](https://github.com/russellcayless/Qualys/blob/485e08bb9b16a0eb28dd1e7b7e0b62e8f9156add/qu_patching.md)**
 
 
 ## 🚨 Threat Hunting and Security Operations

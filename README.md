@@ -9,6 +9,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Conditional Access: Block all countries except UK](https://github.com/russellcayless/Entra/blob/main/ca_except_UK.md)**
 - **[Conditional Access: MFA all users](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)**
 
+## ⚠️ Purview Projects
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Tenable Vulnerability Management Program Implementation](https://github.com/russellcayless/vulnerability-management-program/blob/39d61183e0d2e8aec1610411faa043d9880adae6/README.md)**

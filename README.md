@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🛡️ Entra Projects
 
 - **[Branding Microsoft 365 sign-in experience](https://githttps://github.com/russellcayless/Entra/blob/23561ba1506e17d39d1647521e79bfc087c95782/ca_except_UK.mdhub.com/russellcayless/Entra/blob/4111ae254ee0df70c8d1d885182e5e328b8a1b46/branding_m365_login.md)**
-- **[Password Protection & Self Service Password Reset (SSRP)](https://github.com/russellcayless/Entra/blob/main/ca_except_UK.md)**
+- **[Password Protection & Self Service Password Reset (SSPR)](https://github.com/russellcayless/Entra/blob/main/ca_except_UK.md)**
 - **[Conditional Access: Block all countries except UK](https://github.com/russellcayless/Entra/blob/main/ca_except_UK.md)**
 - **[Conditional Access: MFA all users](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)**
 

@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Conditional Access: MFA all users](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)**
 - **[Conditional Access: Block Legacy Authentication](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)**
 - **[Conditional Access: Block High Risk Sign Ins](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)**
+- **[Conditional Access: Block Device Code Flow](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)** 
 
 ## 🔒 Purview Projects
 

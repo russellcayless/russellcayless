@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Password Protection & Self Service Password Reset (SSPR)](https://github.com/russellcayless/Entra/blob/main/sspr.md)**
 - **[Conditional Access: Block all countries except UK](https://github.com/russellcayless/Entra/blob/main/ca_except_UK.md)**
 - **[Conditional Access: MFA all users](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)**
-- **[Conditional Access: Block Legacy Authentication](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)**
+- **[Conditional Access: Block Legacy Authentication](https://github.com/russellcayless/Entra/blob/3717b94b17fbd27083fa4534afe2dc1829d5ee55/legacy.md)**
 - **[Conditional Access: Block High Risk Sign Ins](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)**
 - **[Conditional Access: Block Device Code Flow](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)** 
 

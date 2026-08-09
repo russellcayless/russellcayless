@@ -27,7 +27,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/russellcayless/threat-hunting-tor-browser/blob/559b3311c80cf8e85b34bb134e7a2f12c8e6ca08/README.md)**
 - **[Threat Hunting Scenario (Virtual Machine Compromise)](https://github.com/russellcayless/threat-hunting/blob/ec2716832acfb36366cb884e4bbf575c8268824a/vm-hunt.md)**
-- **[Threat Intelligence](https://github.com/russellcayless/threat-hunting/blob/ec2716832acfb36366cb884e4bbf575c8268824a/vm-hunt.md)**
+- **[Threat Intelligence](https://github.com/russellcayless/threat-hunting/blob/49e25cddf33b8687304958685d4a44540c0a6d28/Threat%20Intelligence.md)**
 
 ## 📖 Azure Sentinel Workbook Visualizations
 

@@ -15,6 +15,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔒 Purview Projects
 
+## 🔒 Intune Projects
+
+- **[Windows Autopilot V1]
+- **[Windows Autopatch]
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Tenable Vulnerability Management Program Implementation](https://github.com/russellcayless/vulnerability-management-program/blob/39d61183e0d2e8aec1610411faa043d9880adae6/README.md)**

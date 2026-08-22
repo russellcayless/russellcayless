@@ -13,12 +13,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Conditional Access: Block Device Code Flow](https://github.com/russellcayless/Entra/blob/10d059f80d96a330e6721d2f3a2c52645f6f9344/dcf.md)**
 - **[Conditional Access: Require MFA Device Registration](https://github.com/russellcayless/Entra/blob/f46d3fe76403e8193db68c17a61661e492ead6b8/dreg.md)**
 
-## 🔒 Purview Projects
-
 ## 🔒 Intune Projects
 
 - **[Windows Autopilot V1](https://github.com/russellcayless/AutoP./blob/99a1ce9815be7a7ccb6383a4139b5212c0825c6b/AutoP1.md)** 
 - **[Windows Autopatch]
+
+## 🔒 Honeypot - Live Breach & Incident Response
 
 ## ⚠️ Vulnerability Management Projects
 

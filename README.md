@@ -20,6 +20,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔒 Honeypot - Live Breach & Incident Response
 
+- **[Cyber Defence — Advanced Honey Pot w/Live Breach]
+- **[Incident Report — MySQL Extortion / Ransom]
+- **[DFIR Host Assessment (MDE Live Response Package)]
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Tenable Vulnerability Management Program Implementation](https://github.com/russellcayless/vulnerability-management-program/blob/39d61183e0d2e8aec1610411faa043d9880adae6/README.md)**

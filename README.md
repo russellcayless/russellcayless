@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Cyber Defence — Advanced Honey Pot w/Live Breach]
 - **[Incident Report — MySQL Extortion / Ransom]
-- **[DFIR Host Assessment (MDE Live Response Package)https://github.com/russellcayless/honeypot/blob/8853d69614f1f835a3c91659d0d318f5737ada22/DFIE.md]
+- **[DFIR Host Assessment (MDE Live Response Package)(https://github.com/russellcayless/honeypot/blob/8853d69614f1f835a3c91659d0d318f5737ada22/DFIE.md)]
 
 ## ⚠️ Vulnerability Management Projects
 

@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Conditional Access: Windows Token Protection](https://github.com/russellcayless/Entra/blob/f46d3fe76403e8193db68c17a61661e492ead6b8/dreg.md)**
 - **[Conditional Access: Sign in Frequency & Session Control](https://github.com/russellcayless/Entra/blob/f46d3fe76403e8193db68c17a61661e492ead6b8/dreg.md)**
 - **[Conditional Access: Require Compliant Devices](https://github.com/russellcayless/Entra/blob/f46d3fe76403e8193db68c17a61661e492ead6b8/dreg.md)**
-- **[Conditional Access: Block Unsupported Platforms](https://github.com/russellcayless/Entra/blob/f46d3fe76403e8193db68c17a61661e492ead6b8/dreg.md)**
+- **[Conditional Access: Block Unsupported Platforms](https://github.com/russellcayless/Entra/blob/94f444ce18a77116255892946cad626f5f3fd9bf/bup.md)**
 
 ## 🔒 Intune Projects
 

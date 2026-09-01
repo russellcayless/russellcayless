@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Conditional Access: Block High Risk Sign Ins](https://github.com/russellcayless/Entra/blob/c40a756c6d6692266e4fba00ac446b706d82f778/hrisk.md)**
 - **[Conditional Access: Block Device Code Flow](https://github.com/russellcayless/Entra/blob/10d059f80d96a330e6721d2f3a2c52645f6f9344/dcf.md)**
 - **[Conditional Access: Require MFA Device Registration](https://github.com/russellcayless/Entra/blob/f46d3fe76403e8193db68c17a61661e492ead6b8/dreg.md)**
-- **[Conditional Access: Block Authentication Transfer](https://github.com/russellcayless/Entra/blob/f46d3fe76403e8193db68c17a61661e492ead6b8/dreg.md)**
+- **[Conditional Access: Block Authentication Transfer](https://github.com/russellcayless/Entra/blob/3eaa099e460b3750e8eb7c58c72e9d1b6736173b/bat.md)**
 - **[Conditional Access: Windows Token Protection](https://github.com/russellcayless/Entra/blob/f46d3fe76403e8193db68c17a61661e492ead6b8/dreg.md)**
 - **[Conditional Access: Sign in Frequency & Session Control](https://github.com/russellcayless/Entra/blob/f46d3fe76403e8193db68c17a61661e492ead6b8/dreg.md)**
 - **[Conditional Access: Require Compliant Devices](https://github.com/russellcayless/Entra/blob/f46d3fe76403e8193db68c17a61661e492ead6b8/dreg.md)**

@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Branding Microsoft 365 sign-in experience](https://github.com/russellcayless/Entra/blob/52edbec558cc349394d51a9d5e7784ef84e89e1e/branding_m365_login.md)**
 - **[Password Protection & Self Service Password Reset (SSPR)](https://github.com/russellcayless/Entra/blob/main/sspr.md)**
 
-<img width="1567" alt="Screen Shot 2025-05-07 at 11 26 51 PM" src="https://github.com/russellcayless/russellcayless/blob/723c80d5d7e1cba717e931985ede5835cf4d58ec/cap.png" />
+<img width="1267" alt="Screen Shot 2025-05-07 at 11 26 51 PM" src="https://github.com/russellcayless/russellcayless/blob/723c80d5d7e1cba717e931985ede5835cf4d58ec/cap.png" />
 
 - **[Conditional Access: Block all countries except UK](https://github.com/russellcayless/Entra/blob/main/ca_except_UK.md)**
 - **[Conditional Access: MFA all users](https://github.com/russellcayless/Entra/blob/62539abc5beb2c00a9333a44bcb0256ab3886b7f/mfa.md)**
